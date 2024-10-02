@@ -97,7 +97,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lwsrodrigues&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lwsrodrigues&show_icons=true&theme=gruvbox&bg_color=2e3440&title_color=88c0d0&text_color=e5e9f0&icon_color=81a1c1" alt="Estatísticas do GitHub" />
     </td>
     <td>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff4500&currStreakNum=c9d1d9&currStreakLabel=f0f6fc" alt="Commits" />
