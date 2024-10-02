@@ -23,9 +23,9 @@
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
           <h3 align="center">Sistema de Reservas de Passagens Aéreas</h3>
-          <p>Um sistema para gerenciar reservas de passagens aéreas, permitindo busca de voos, reservas e gerenciamento de usuários.</p>
+          <p>O Sistema de Gerenciamento de Reservas de Passagens Aéreas é uma ferramenta promissora que, após a implementação das melhorias necessárias, como a integração com banco de dados e a criação de um front-end, poderá oferecer uma solução completa e eficaz para a gestão de passagens aéreas. Com isso, espera-se aumentar a satisfação dos usuários e melhorar a eficiência operacional do sistema</p>
           <p align="center">
-            <a href="https://github.com/seu_usuario/nome_do_repositorio" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+            <a href="https://github.com/lwsrodrigues/passagensaereas" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
         </div>
       </td>
