@@ -31,8 +31,8 @@
       </td>
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
-          <h3 align="center">Aplicativo de Cozinha</h3>
-          <p>Um aplicativo que conecta cozinheiros com consumidores, facilitando a experiência culinária em casa.</p>
+          <h3 align="center">Aplicativo Mobile Híbrido</h3>
+          <p>Um dos principais benefícios do desenvolvimento híbrido é a capacidade de criar um único código-fonte que pode ser executado em várias plataformas, incluindo Android e iOS. Isso reduz o tempo e o custo de desenvolvimento, já que não é necessário criar e manter duas bases de código separadas.</p>
           <p align="center">
             <a href="https://github.com/seu_usuario/nome_do_repositorio" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
@@ -40,10 +40,10 @@
       </td>
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
-          <h3 align="center">Monitoramento de Agriculturas com IoT</h3>
-          <p>Um projeto para monitorar áreas agrícolas usando sensores IoT, otimizando o uso de recursos e aumentando a produtividade.</p>
+          <h3 align="center">Medidor de Temperatura e Umidade</h3>
+          <p>Desenvolvi um medidor de temperatura e umidade utilizando o sensor DHT22 e o microcontrolador ESP32, que monitora as condições ambientais em tempo real e envia os dados para a plataforma ThingSpeak via MQTT. Conectado a uma rede Wi-Fi, o sistema transmite medições a cada 2 segundos e exibe os resultados no console serial, garantindo um acompanhamento imediato. Implementei funcionalidades para reconexão automática ao MQTT em caso de falhas, assegurando a continuidade da transmissão. Este projeto proporcionou uma valiosa experiência prática em Internet das Coisas (IoT) e integração de hardware e software.</p>
           <p align="center">
-            <a href="https://github.com/seu_usuario/nome_do_repositorio" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+            <a href="https://github.com/lwsrodrigues/projetoIOT" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
         </div>
       </td>
