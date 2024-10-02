@@ -85,10 +85,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lwsrodrigues&show_icons=true&theme=radical" alt="Lucas GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lwsrodrigues&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0f6fc&border_color=30363d" alt="Lucas GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwsrodrigues&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwsrodrigues&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais usadas" />
     </td>
   </tr>
 </table>
@@ -97,10 +97,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lwsrodrigues&theme=react-dark" alt="Lucas GitHub activity graph" />
+      <img src="https://github-readme-stats.vercel.app/api?username=lwsrodrigues&show_icons=true&theme=default"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical" alt="Commits" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff4500&currStreakNum=c9d1d9&currStreakLabel=f0f6fc" alt="Commits" />
     </td>
   </tr>
 </table>
