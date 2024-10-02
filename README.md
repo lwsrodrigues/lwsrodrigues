@@ -88,19 +88,19 @@
       <img src="https://github-readme-stats.vercel.app/api?username=lwsrodrigues&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f0f6fc&border_color=30363d" alt="Lucas GitHub stats" />
     </td>
     <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwsrodrigues&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais usadas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwsrodrigues&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Linguagens mais usadas"width="500" height="300" />
     </td>
   </tr>
 </table>
 
-## Atividade Recentes e Streak de Commits
+## Contribuições ao longo do tempo e Streak de Commits
 <table>
   <tr>
     <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=lwsrodrigues&show_icons=true&theme=gruvbox&bg_color=2e3440&title_color=88c0d0&text_color=e5e9f0&icon_color=81a1c1" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lwsrodrigues&theme=dracula" alt="Contribuições ao longo do tempo" width="600" height="300" />
     </td>
     <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff4500&currStreakNum=c9d1d9&currStreakLabel=f0f6fc" alt="Commits" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff4500&currStreakNum=c9d1d9&currStreakLabel=f0f6fc" alt="Commits"width="600" height="300" />
     </td>
   </tr>
 </table>
