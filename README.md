@@ -17,9 +17,38 @@
 <!-- Projects Section -->
 <h2 align="center">🚀 Projetos</h2>
 <p align="center">
-  - [Sistema de Reservas de Passagens Aéreas](https://github.com/seu_usuario/nome_do_repositorio) - Um sistema para gerenciar reservas de passagens aéreas.
-  - [Aplicativo de Cozinha](https://github.com/seu_usuario/nome_do_repositorio) - Um aplicativo que conecta cozinheiros com consumidores.
-  - [Monitoramento de Agriculturas com IoT](https://github.com/seu_usuario/nome_do_repositorio) - Um projeto para monitorar áreas agrícolas usando sensores IoT.
+
+  <table>
+    <tr>
+      <td>
+        <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
+          <h3 align="center">Sistema de Reservas de Passagens Aéreas</h3>
+          <p>Um sistema para gerenciar reservas de passagens aéreas, permitindo busca de voos, reservas e gerenciamento de usuários.</p>
+          <p align="center">
+            <a href="https://github.com/seu_usuario/nome_do_repositorio" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+          </p>
+        </div>
+      </td>
+      <td>
+        <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
+          <h3 align="center">Aplicativo de Cozinha</h3>
+          <p>Um aplicativo que conecta cozinheiros com consumidores, facilitando a experiência culinária em casa.</p>
+          <p align="center">
+            <a href="https://github.com/seu_usuario/nome_do_repositorio" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+          </p>
+        </div>
+      </td>
+      <td>
+        <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
+          <h3 align="center">Monitoramento de Agriculturas com IoT</h3>
+          <p>Um projeto para monitorar áreas agrícolas usando sensores IoT, otimizando o uso de recursos e aumentando a produtividade.</p>
+          <p align="center">
+            <a href="https://github.com/seu_usuario/nome_do_repositorio" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </p>
 
 <!-- Footer -->
