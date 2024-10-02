@@ -22,7 +22,7 @@
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
           <h3 align="center">Sistema de Reservas de Passagens Aéreas</h3>
-          <p>O Sistema de Gerenciamento de Reservas de Passagens Aéreas é uma ferramenta promissora que, após a implementação das melhorias necessárias, como a integração com banco de dados e a criação de um front-end, poderá oferecer uma solução completa e eficaz para a gestão de passagens aéreas. Com isso, espera-se aumentar a satisfação dos usuários e melhorar a eficiência operacional do sistema</p>
+          <p></p>
           <p align="center">
             <a href="https://github.com/lwsrodrigues/passagensaereas" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
@@ -31,7 +31,7 @@
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
           <h3 align="center">Aplicativo Mobile Híbrido</h3>
-          <p>Um dos principais benefícios do desenvolvimento híbrido é a capacidade de criar um único código-fonte que pode ser executado em várias plataformas, incluindo Android e iOS. Isso reduz o tempo e o custo de desenvolvimento, já que não é necessário criar e manter duas bases de código separadas.</p>
+          <p></p>
           <p align="center">
             <a href="https://github.com/seu_usuario/nome_do_repositorio" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
@@ -40,7 +40,7 @@
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
           <h3 align="center">Medidor de Temperatura e Umidade</h3>
-          <p>Desenvolvi um medidor de temperatura e umidade utilizando o sensor DHT22 e o microcontrolador ESP32, que monitora as condições ambientais em tempo real e envia os dados para a plataforma ThingSpeak via MQTT. Conectado a uma rede Wi-Fi, o sistema transmite medições a cada 2 segundos e exibe os resultados no console serial, garantindo um acompanhamento imediato. Implementei funcionalidades para reconexão automática ao MQTT em caso de falhas, assegurando a continuidade da transmissão. Este projeto proporcionou uma valiosa experiência prática em Internet das Coisas (IoT) e integração de hardware e software.</p>
+          <p></p>
           <p align="center">
             <a href="https://github.com/lwsrodrigues/projetoIOT" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
@@ -51,7 +51,7 @@
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
           <h3 align="center">Calculadora Comercial</h3>
-          <p>Este aplicativo de calculadora de troco foi desenvolvido em Java, para auxiliar caixas e clientes em transações comerciais. Ele calcula o troco de forma rápida e precisa, utilizando o menor número possível de notas e moedas.</p>
+          <p></p>
           <p align="center">
             <a href="https://github.com/lwsrodrigues/Calculadora-Comercial" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
@@ -60,7 +60,7 @@
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
           <h3 align="center">Jogo da velha</h3>
-          <p>Apresento meu projeto de Jogo da Velha desenvolvido em Java! Com uma interface simples no console, dois jogadores se alternam entre 'X' e 'O', tentando formar uma linha, coluna ou diagonal com o mesmo símbolo. O jogo valida jogadas, detecta vitórias e empates, e mantém o tabuleiro sempre atualizado. Uma ótima prática de programação orientada a objetos com uso de classes e métodos para organizar o código.</p>
+          <p></p>
           <p align="center">
             <a href="https://github.com/lwsrodrigues/Jogo-da-velha-" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
