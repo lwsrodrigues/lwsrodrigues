@@ -78,5 +78,7 @@
     </tr>
   </table>
 </p>
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical)
+
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=fff&animation=twinkling">
