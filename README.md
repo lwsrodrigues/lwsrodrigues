@@ -78,7 +78,32 @@
     </tr>
   </table>
 </p>
-![Commits](https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical)
 
+
+
+## Estatísticas do GitHub e Linguagens Mais Usadas
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lwsrodrigues&show_icons=true&theme=radical" alt="Lucas GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwsrodrigues&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
+
+## Atividade Recentes e Streak de Commits
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lwsrodrigues&theme=react-dark" alt="Lucas GitHub activity graph" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical" alt="Commits" />
+    </td>
+  </tr>
+</table>
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=fff&animation=twinkling">
+
