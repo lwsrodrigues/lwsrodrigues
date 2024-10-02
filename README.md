@@ -69,7 +69,7 @@
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
           <h3 align="center">Formulário de Clientes</h3>
-          <p>Este projeto consiste na criação de um formulário de clientes, desenvolvido em HTML e CSS, com um design responsivo e moderno. O objetivo principal é coletar informações pessoais dos usuários de forma organizada e intuitiva. O formulário é ideal para empresas que desejam registrar dados de clientes para serviços, newsletters ou pesquisas de mercado.</p>
+          <p></p>
           <p align="center">
             <a href="https://github.com/lwsrodrigues/formulario.github.io" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
