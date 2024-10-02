@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
-
 <!-- Projects Section -->
 <h2 align="center">🚀 Projetos</h2>
 <p align="center">
@@ -48,8 +47,36 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <td>
+        <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
+          <h3 align="center">Calculadora Comercial</h3>
+          <p>Este aplicativo de calculadora de troco foi desenvolvido em Java, para auxiliar caixas e clientes em transações comerciais. Ele calcula o troco de forma rápida e precisa, utilizando o menor número possível de notas e moedas.</p>
+          <p align="center">
+            <a href="https://github.com/lwsrodrigues/Calculadora-Comercial" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+          </p>
+        </div>
+      </td>
+      <td>
+        <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
+          <h3 align="center">Jogo da velha</h3>
+          <p>Apresento meu projeto de Jogo da Velha desenvolvido em Java! Com uma interface simples no console, dois jogadores se alternam entre 'X' e 'O', tentando formar uma linha, coluna ou diagonal com o mesmo símbolo. O jogo valida jogadas, detecta vitórias e empates, e mantém o tabuleiro sempre atualizado. Uma ótima prática de programação orientada a objetos com uso de classes e métodos para organizar o código.</p>
+          <p align="center">
+            <a href="https://github.com/lwsrodrigues/Jogo-da-velha-" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+          </p>
+        </div>
+      </td>
+      <td>
+        <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
+          <h3 align="center">Formulário de Clientes</h3>
+          <p>Este projeto consiste na criação de um formulário de clientes, desenvolvido em HTML e CSS, com um design responsivo e moderno. O objetivo principal é coletar informações pessoais dos usuários de forma organizada e intuitiva. O formulário é ideal para empresas que desejam registrar dados de clientes para serviços, newsletters ou pesquisas de mercado.</p>
+          <p align="center">
+            <a href="https://github.com/lwsrodrigues/formulario.github.io" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+          </p>
+        </div>
+      </td>
+    </tr>
   </table>
 </p>
-
 <!-- Footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=fff&animation=twinkling">
