@@ -39,7 +39,7 @@
       </td>
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
-          <h3 align="center">Medidor de Temperatura e Umidade</h3>
+          <h3 align="center">Medidor de Temperatura e Umidade (IoT)</h3>
           <p></p>
           <p align="center">
             <a href="https://github.com/lwsrodrigues/projetoIOT" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
