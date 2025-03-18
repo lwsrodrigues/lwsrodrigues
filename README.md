@@ -107,13 +107,14 @@
 <table>
   <tr>
     <td>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lwsrodrigues&theme=dracula" alt="Contribuições ao longo do tempo" width="600" height="300" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=lwsrodrigues&theme=dracula" alt="Contribuições ao longo do tempo" width="600" height="300" />
     </td>
     <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff4500&currStreakNum=c9d1d9&currStreakLabel=f0f6fc" alt="Commits"width="600" height="160" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=lwsrodrigues&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff4500&currStreakNum=c9d1d9&currStreakLabel=f0f6fc" alt="Commits" width="600" height="160" />
     </td>
   </tr>
 </table>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lwsrodrigues}/count.svg" /></p> 
