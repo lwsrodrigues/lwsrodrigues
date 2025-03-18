@@ -104,6 +104,7 @@
 </table>
 
 ## Contribuições ao longo do tempo e Streak de Commits
+
 <table>
   <tr>
     <td>
@@ -114,6 +115,7 @@
     </td>
   </tr>
 </table>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
