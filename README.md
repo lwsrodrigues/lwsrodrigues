@@ -33,7 +33,7 @@
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
           <h3 align="center">:warning:
-            Aplicativo Mobile Híbrido (em construção)  </h3>
+            Mobile + Integração IoT </h3>
           <p></p>
           <p align="center">
             <a href="https://github.com/lwsrodrigues/servicecleanmobile" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
@@ -53,28 +53,28 @@
     <tr>
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
-          <h3 align="center">Calculadora Comercial</h3>
+          <h3 align="center">Landing Page</h3>
           <p></p>
           <p align="center">
-            <a href="https://github.com/lwsrodrigues/Calculadora-Comercial" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+            <a href="https://lwsrodrigues.github.io/pmgadvogados/" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
         </div>
       </td>
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
-          <h3 align="center">Jogo da velha</h3>
+          <h3 align="center">Desenvolvimento Mobile First </h3>
           <p></p>
           <p align="center">
-            <a href="https://github.com/lwsrodrigues/Jogo-da-velha-" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+            <a href="https://github.com/lwsrodrigues/link-bio.git" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
         </div>
       </td>
       <td>
         <div style="border: 1px solid #00bfbf; border-radius: 10px; padding: 20px; margin: 10px; width: 300px;">
-          <h3 align="center">Formulário de Clientes</h3>
+          <h3 align="center">Sistema para Controle de Ordem de Serviços</h3>
           <p></p>
           <p align="center">
-            <a href="https://github.com/lwsrodrigues/formulario.github.io" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
+            <a href="https://github.com/lwsrodrigues/sistema_java.git" target="_blank" style="text-decoration: none; color: white; background-color: #00bfbf; padding: 10px 15px; border-radius: 5px;">Ver Projeto</a>
           </p>
         </div>
       </td>
